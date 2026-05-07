@@ -1,0 +1,20 @@
+{
+  "model": "LINC CVRPTW n100",
+  "checkpoint": "checkpoint-11885.pt",
+  "alias": null,
+  "source_epoch": 11885,
+  "source_train_score": 1936.4997832489014,
+  "selected_seed": 1234,
+  "selection_setting": {
+    "z_samples": 800,
+    "aug_factor": 8,
+    "solomon_poly_batch_size": 64,
+    "hg200_batch_size": 16
+  },
+  "selection_results": {
+    "solomon56_mean_distance": 1041.3524213518415,
+    "poly100_mean_distance": 13252.74541015625,
+    "hg200_mean_distance": 3096.566931,
+    "hg200_mean_gap_pct": 15.6047
+  }
+}

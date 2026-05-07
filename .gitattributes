@@ -1,0 +1,15 @@
+* text=auto
+.gitattributes text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
+*.tex text eol=lf
+*.vrp text eol=lf
+
+*.pkl binary
+*.pt binary
+*.ckpt binary
+*.png binary
+*.pdf binary
